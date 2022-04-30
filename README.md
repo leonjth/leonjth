@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leonjth
+- 👀 I’m interested about technology and innovation
+- 🌱 I’m currently studying full stack web development at Digital House
+- 📫 How to reach me: https://www.linkedin.com/in/leonjth/
